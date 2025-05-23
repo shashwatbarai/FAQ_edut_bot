@@ -1,4 +1,4 @@
-**FAQ Bot**
+# FAQ Bot (EduTech)
 
 This is a bot for an educational company that answers the users questions by referencing from a document of frequently asked questions.
 
